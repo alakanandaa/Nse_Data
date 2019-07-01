@@ -1,4 +1,5 @@
 #importing necessary packages
+#inserting single csv file to mongodb
 import pandas as pd
 from pymongo import MongoClient
 client=MongoClient()
